@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework3/HW3StarterGetAClue.c
+stdio.h
+-
+stdlib.h
+-
+Room.h
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework3/Room.h
+tests.h
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework3/tests.h
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework3/Room.c
+Room.h
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework3/Room.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework3/Room.h
+stdbool.h
+-
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework3/production.c
+production.h
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework3/production.h
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework3/production.h
+stdio.h
+-
+stdbool.h
+-
+string.h
+-
+stdlib.h
+-
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework3/tests.c
+tests.h
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework3/tests.h
+production.h
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework3/production.h
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework3/tests.h
+production.h
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework3/production.h
+

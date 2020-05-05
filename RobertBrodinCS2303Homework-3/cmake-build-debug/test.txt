@@ -1,0 +1,12 @@
+0 0 1 0 0 0 0 0 0 0 0 0 0 OutsideWorld
+1 1 0 1 0 0 0 0 0 0 0 1 0 Hall
+2 0 1 0 1 0 0 1 0 0 0 1 0 Lounge
+3 0 0 1 0 1 0 0 0 0 0 1 0 DiningRoom
+4 0 0 0 1 0 1 0 0 0 1 1 0 Kitchen
+5 0 0 0 0 1 0 1 0 0 0 1 0 Ballroom
+6 0 0 1 0 0 1 0 1 0 0 0 0 Conservatory
+7 0 0 0 0 0 0 1 0 1 0 1 0 BilliardRoom
+8 0 0 0 0 0 0 0 1 0 1 1 0 Library
+9 0 0 0 0 1 0 0 0 1 0 0 0 Study
+10 0 1 1 1 1 1 0 1 1 0 0 1 Corridor
+11 0 0 0 0 0 0 0 0 0 0 1 0 Cellar
