@@ -1,0 +1,104 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/2020HW1starter.c
+stdio.h
+-
+stdlib.h
+-
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/HW1.c
+stdio.h
+-
+stdlib.h
+-
+tests.h
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/tests.h
+production.h
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/production.h
+RobBrodin.h
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/RobBrodin.h
+search.c
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/search.c
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/RobBrodin.h
+search.c
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/search.c
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/house.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+house.h
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/house.h
+layout.c
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/layout.c
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/house.h
+layout.h
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/layout.h
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/layout.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+layout.h
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/layout.h
+room.c
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/room.c
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/layout.h
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/production.c
+production.h
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/production.h
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/production.h
+stdio.h
+-
+stdbool.h
+-
+string.h
+-
+stdlib.h
+-
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/room.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/search.c
+stdio.h
+-
+stdlib.h
+-
+stdbool.h
+-
+house.c
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/house.c
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/tests.c
+tests.h
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/tests.h
+production.h
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/production.h
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/tests.h
+production.h
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2223Homework1/src/production.h
+
