@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework2/src/2020HW2starter.c
+stdio.h
+-
+stdlib.h
+-
+tests.h
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework2/src/tests.h
+production.h
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework2/src/production.h
+TMSName.h
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework2/src/TMSName.h
+time.h
+-
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework2/src/RobLinkedListClass.h
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework2/src/TMSName.h
+matrix.h
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework2/src/matrix.h
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework2/src/matrix.c
+stdio.h
+-
+stdlib.h
+-
+matrix.h
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework2/src/matrix.h
+time.h
+-
+RobLinkedListClass.h
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework2/src/RobLinkedListClass.h
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework2/src/matrix.h
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework2/src/production.h
+stdio.h
+-
+stdbool.h
+-
+string.h
+-
+stdlib.h
+-
+
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework2/src/tests.h
+matrix.h
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework2/src/matrix.h
+production.h
+/Users/robertbrodin/Documents/CS 2303/RobertBrodinCS2303Homework2/src/production.h
+
