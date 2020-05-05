@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/robertbrodin/Downloads/Lab5/Student.h
+iostream
+-
+string
+-
+vector
+-
+initializer_list
+-
+
+/Users/robertbrodin/Downloads/Lab5/main.cpp
+iostream
+-
+Student.h
+/Users/robertbrodin/Downloads/Lab5/Student.h
+vector
+-
+string
+-
+
